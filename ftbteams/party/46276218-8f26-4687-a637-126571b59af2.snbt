@@ -1,0 +1,22 @@
+{
+	id: "46276218-8f26-4687-a637-126571b59af2"
+	type: "party"
+	owner: "d9a4a20d-5f8d-4b07-8238-ee05e7f43ab8"
+	ranks: {
+		68d80977-801d-4a77-a7d7-037031fc0d1f: "member"
+		d9a4a20d-5f8d-4b07-8238-ee05e7f43ab8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "The Cuties"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C4FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728926996216L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ZeroLynx406164\"}]}" }
+		{ from: "d9a4a20d-5f8d-4b07-8238-ee05e7f43ab8", date: 1728926996219L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ThePattyMelt\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728927000661L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ThePattyMelt\"}]}" }
+	]
+	extra: { }
+}

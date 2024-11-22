@@ -1,0 +1,17 @@
+{
+	id: "5c300540-312e-49e0-98b6-ef6d3c110d29"
+	type: "player"
+	player_name: "Turtle_bro_"
+	ranks: {
+		5c300540-312e-49e0-98b6-ef6d3c110d29: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Turtle_bro_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59E8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

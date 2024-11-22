@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5c300540312e49e098b6ef6d3c110d29"
+	name: "Turtle_bro_#5c300540"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
