@@ -2,11 +2,13 @@
 	id: "68d80977-801d-4a77-a7d7-037031fc0d1f"
 	type: "player"
 	player_name: "ThePattyMelt"
-	ranks: { }
+	ranks: {
+		68d80977-801d-4a77-a7d7-037031fc0d1f: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "ThePattyMelt"
 		"ftbteams:description": ""
-		"ftbteams:color": "#63FF59"
+		"ftbteams:color": "#59FF93"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
